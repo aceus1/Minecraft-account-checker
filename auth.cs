@@ -17,14 +17,13 @@ namespace Minecraft_account_checker
                 httpWebRequest.Method = "POST";
                 using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
                 {
-                    string json = "{" + "\r\n" + "\"agent\": {" + "\r\n" + "    \"name\": \"Minecraft\"," + "\r\n" + "    \"version\": 1" + "\r\n" + "}," + "\r\n" + "\"username\": \"" + user +"\"," + "\r\n" + "\"password\": \"" + password + "\"" + "\r\sn" + "}";
+                    string json = "{" + "\r\n" + "\"agent\": {" + "\r\n" + "    \"name\": \"Minecraft\"," + "\r\n" + "    \"version\": 1" + "\r\n" + "}," + "\r\n" + "\"username\": \"" + user +"\"," + "\r\n" + "\"password\": \"" + password + "\"" + "\r\n" + "}";
                     streamWriter.Write(json);
                     streamWriter.Flush();
                     streamWriter.Close();
                 }
-
                 var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
-            var streamReader = new StreamReader(httpResponse.GetResponseStream());
+                var streamReader = new StreamReader(httpResponse.GetResponseStream());
                 var result = streamReader.ReadToEnd();
                 return result.ToString();
         }
