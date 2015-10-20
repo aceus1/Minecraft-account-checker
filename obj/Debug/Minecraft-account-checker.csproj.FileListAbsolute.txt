@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\bin\Debug\Minecraft-account-checker.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\bin\Debug\Minecraft-account-checker.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\bin\Debug\Minecraft-account-checker.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\obj\Debug\Minecraft-account-checker.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\obj\Debug\Minecraft_account_checker.startform.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\obj\Debug\Minecraft_account_checker.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\obj\Debug\Minecraft-account-checker.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\obj\Debug\Minecraft-account-checker.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Minecraft-account-checker\Minecraft-account-checker\obj\Debug\Minecraft-account-checker.pdb
